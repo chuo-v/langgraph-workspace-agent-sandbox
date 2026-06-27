@@ -1,7 +1,8 @@
 # ==========================================
 # Environment
 # ==========================================
-environment: "staging"
+environment: "debug"
+production: "debug"
 
 # ==========================================
 # Logging
