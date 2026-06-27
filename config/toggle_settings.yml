@@ -1,0 +1,3 @@
+environment: debug
+production: debug
+features_enabled: true
