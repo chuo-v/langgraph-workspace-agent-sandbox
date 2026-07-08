@@ -1,14 +1,14 @@
 # ==========================================
 # Environment
 # ==========================================
-environment: "staging"
+environment: "production"
 
 # ==========================================
 # Logging
 # ==========================================
-log_level: "staging"
+log_level: "production"
 
 # ==========================================
 # Features
 # ==========================================
-features_enabled: true
+features_enabled: false
